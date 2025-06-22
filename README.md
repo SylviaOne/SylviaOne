@@ -45,7 +45,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=SylviaOne&theme=radical&date_format=j%20M%5B%20Y%5D)
 
 ---
-<!-- This readme was created by Angga - https://github.com/SylviaOne -->
+<!-- This readme was created by SylviaOne - https://github.com/SylviaOne -->
 
 <details>
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
