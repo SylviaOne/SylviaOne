@@ -35,7 +35,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=SylviaOne&theme=radical&date_format=j%20M%5B%20Y%5D)
 
 ---
-<!-- This readme was created by Angga - https://github.com/AnggaR96s -->
+<!-- This readme was created by Angga - https://github.com/SylviaOne -->
 
 <details>
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
@@ -104,7 +104,7 @@ PHP                      6 repos             █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://github.com/AnggaR96s/AnggaR96s/blob/master/charts/bar_graph.png) 
+![Chart not found](https://github.com/SylviaOne/SylviaOne/blob/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
