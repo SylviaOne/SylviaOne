@@ -1,10 +1,16 @@
 <!-- Your title -->
 ## Hi, I'm SylviaOne, from Indonesia. <img src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/asset/Hi.gif" width="30px">
 
-
+---
 <p align="center">
   <img src="https://media.giphy.com/media/WOwiryOPA0G6jhKqB0/source.gif" width="30%"><br>
 </p>
+<p align="center">
+<a href="https://github.com/SylviaOne"> <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" /></a>
+<a href="https://www.twitter.com/Sylvia0ne"> <img src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white" /></a>
+<a href="https://www.instagram.com/coudlerose"> <img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" /></a>
+<a href="mailto:adialfatih23@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
+<a href="mailto: innerbeautykylla@hotmail.com"> <img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white" /></p></a>
 
 ![Metrics](https://github.com/SylviaOne/Metrics/blob/main/github-metrics.svg)
 
@@ -12,13 +18,6 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=SylviaOne&style=for-the-badge&label=PROFILE+VIEWS&labelColor=21262d&color=238636)](https://github.com/SylviaOne)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=SylviaOne&theme=radical&date_format=j%20M%5B%20Y%5D)
-
-<p align="center">
-<a href="https://github.com/SylviaOne"> <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" /></a>
-<a href="https://www.twitter.com/Sylvia0ne"> <img src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white" /></a>
-<a href="https://www.instagram.com/coudlerose"> <img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" /></a>
-<a href="mailto:adialfatih23@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
-<a href="mailto: innerbeautykylla@hotmail.com"> <img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white" /></p></a>
 
 ---
 <!-- Talking about you -->
