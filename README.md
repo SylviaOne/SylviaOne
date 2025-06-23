@@ -6,6 +6,15 @@
   <img src="https://media.giphy.com/media/WOwiryOPA0G6jhKqB0/source.gif" width="30%"><br>
 </p>
 
+![Metrics](https://github.com/SylviaOne/Metrics/blob/main/github-metrics.svg)
+
+### Stats
+[![Profile Views](https://komarev.com/ghpvc/?username=SylviaOne&style=for-the-badge&label=PROFILE+VIEWS&labelColor=21262d&color=238636)](https://github.com/SylviaOne)
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SylviaOne&theme=radical&date_format=j%20M%5B%20Y%5D)
+
+
 ---
 <p align="center">
 <a href="https://github.com/SylviaOne"> <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" /></a>
@@ -38,11 +47,6 @@
 <!-- LastFM Scrobbles -->
 [![LastFM](https://angga-lastfm.vercel.app/api?user=coudlerose&count=3&width=480)](https://www.last.fm/user/coudleRose)
 
-### Stats
-[![Profile Views](https://komarev.com/ghpvc/?username=SylviaOne&style=for-the-badge&label=PROFILE+VIEWS&labelColor=21262d&color=238636)](https://github.com/SylviaOne)
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=SylviaOne&theme=radical&date_format=j%20M%5B%20Y%5D)
 
 ---
 <!-- This readme was created by SylviaOne - https://github.com/SylviaOne -->
