@@ -9,7 +9,7 @@
 <a href="https://github.com/SylviaOne"> <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/coudlerose"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
 <a href="https://www.threads.net/@coudlerose"> <img src="https://img.shields.io/badge/Threads-000000?style=flat&logo=threads&logoColor=white" /></a>
-<a href="https://www.twitter.com/Sylvia0ne"> <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FSylvia0ne&style=flat&logo=X&logoSize=auto&label=Twitter&labelColor=%23000000&color=%23000000" /></a>
+<a href="https://www.twitter.com/Sylvia0ne"> <img alt="Static Badge" src="https://img.shields.io/badge/Twitter-%23000000?style=flat&logo=X&logoSize=auto" /></a>
 <a href="https://linktr.ee/SylviaOne"> <img alt="Static Badge" src="https://img.shields.io/badge/Linktree-white?style=flat&logo=linktree&logoColor=%2343E55E&logoSize=auto" /></a>
 <a href="https://www.instagram.com/coudlerose"> <img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" /></a>
 <a href="mailto:adialfatih23@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
@@ -36,9 +36,9 @@
 - 🌱 I’m currently learning Android Development.
 - 🐾 I’m looking for help with Search Engine.
 - 🌐 Official Website : [Website](https://linktr.ee/SylviaOne)
-- 🎙️ [Tongkrongan Audio Indonesia — T.A.I](https://www.facebook.com/groups/751231222188632/?ref=share&mibextid=NSMWBT)
-- 🛍️ [Warung Teknologi — Wartek](https://www.facebook.com/groups/741749746532947/?ref=share&mibextid=NSMWBT)
-- 📼 [Earbud Lover Indonesia — ELI](https://www.facebook.com/groups/EarbudLoverIndonesia/?ref=share&mibextid=NSMWBT)
+- 🎙️ [Tongkrongan Audio Indonesia](https://www.facebook.com/groups/751231222188632/?ref=share&mibextid=NSMWBT)
+- 🛍️ [Warung Teknologi](https://www.facebook.com/groups/741749746532947/?ref=share&mibextid=NSMWBT)
+- 📼 [Earbud Lover Indonesia](https://www.facebook.com/groups/EarbudLoverIndonesia/?ref=share&mibextid=NSMWBT)
 ---
 
 ### Music
