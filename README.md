@@ -1,7 +1,6 @@
 <!-- Your title -->
 ## Hi, I'm SylviaOne, from Indonesia. <img src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/asset/Hi.gif" width="30px">
 
----
 <p align="center">
   <img src="https://media.giphy.com/media/WOwiryOPA0G6jhKqB0/source.gif" width="30%"><br>
 </p>
@@ -32,7 +31,6 @@
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/AnggaR96s/AnggaR96s/master/assets/git-header.svg" />
 
-- 🎧 Audiophile.
 - 🌱 I’m currently learning Android Development.
 - 🐾 I’m looking for help with Search Engine.
 - 🌐 Official Website : [Website](https://linktr.ee/SylviaOne)
