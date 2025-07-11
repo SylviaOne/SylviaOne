@@ -16,11 +16,7 @@
 <a href="https://visitor-badge.laobi.icu/badge?page_id=SylviaOne"> <img src="https://visitor-badge.laobi.icu/badge?page_id=SylviaOne" /></a></p>
 
 ---
-
 ![Metrics](https://github.com/SylviaOne/Metrics/blob/main/github-metrics.svg)
-
-### Stats
-[![Profile Views](https://komarev.com/ghpvc/?username=SylviaOne&style=for-the-badge&label=PROFILE+VIEWS&labelColor=21262d&color=238636)](https://github.com/SylviaOne)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=SylviaOne&theme=radical&date_format=j%20M%5B%20Y%5D)
 
@@ -47,5 +43,3 @@
 
 <!-- LastFM Scrobbles -->
 [![LastFM](https://angga-lastfm.vercel.app/api?user=coudlerose&count=3&width=480)](https://www.last.fm/user/coudleRose)
-
----
