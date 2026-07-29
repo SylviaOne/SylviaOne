@@ -26,7 +26,7 @@
 <a href="https://visitor-badge.laobi.icu/badge?page_id=min69u"> <img src="https://visitor-badge.laobi.icu/badge?page_id=min69u" /></a></p>
 
 ---
-![Metrics](https://github.com/min69u/Metrics/blob/main/github-metrics.svg)
+![Metrics](https://github.com/SylviaOne/Metrics/blob/main/github-metrics.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/min69u/min69u/output/github-snake-dark.svg">
