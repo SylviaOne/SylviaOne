@@ -40,7 +40,7 @@
 
 </div>
 
-[![SylviaOne's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=min69u&theme=react-dark)](https://github.com/SylaviaOne)
+[![SylviaOne's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SylviaOne&theme=react-dark)](https://github.com/SylaviaOne)
 
 ---
 ### Music
